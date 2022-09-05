@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+.container-xxl {
+    padding-top: 50px;
+}
+
+p {
+    background-color: lightblue;
+    border: solid lightslategray 2px;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+.row {
+    padding-top: 20px;
+}
+
+.login {
+    margin-top: 70px;
+   
+}
